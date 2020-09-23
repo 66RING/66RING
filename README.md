@@ -46,8 +46,3 @@ ____/\___/ \__,_|_|  \___|\___|
 \o/
 ```
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=66ring&show_icons=true&theme=cobalt)
-
-![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=66ring&theme=cobalt)
-
